@@ -159,12 +159,15 @@ suae repugnant, nostros tamen confirmabimus.</p>
             <p>
                <hi>LONDON,</hi> Printed by <hi>Tho. Newcomb,</hi> for <hi>Simon York,</hi>
 and <hi>Richard Barley,</hi> dwelling in <hi>Dover,</hi> 1654.</p>
-            <figure>
-               <p>Collegium S. S. et Individuoe
+            <p>
+               <pb facs="tcp:31222:2"/>
+               <figure>
+                  <p>Collegium S. S. et Individuoe
 Trinitatis in Academiâ
 Cantabrigiensi</p>
-               <figDesc>Trinity College coat of arms</figDesc>
-            </figure>
+                  <figDesc>Trinity College coat of arms</figDesc>
+               </figure>
+            </p>
          </div>
          <div type="dedication">
             <pb facs="tcp:31222:2"/>
